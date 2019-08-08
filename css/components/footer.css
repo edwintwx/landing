@@ -1,0 +1,19 @@
+.footer {
+  text-align: center;
+  background-color: #2c2b2b;
+  padding: 50px;
+}
+
+
+.footer-icon a {
+  color: #1edc88;
+  font-size: 2em;
+}
+
+.footer-copyright {
+  color: rgba(240, 240, 240, 0.5);
+}
+
+.footer-copyright i {
+  color: red;
+}
